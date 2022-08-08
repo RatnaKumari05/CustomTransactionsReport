@@ -8,8 +8,12 @@ If merchant dont want to apply the filters, he can redirect to the page where he
 And Merchant can logout whenever he wants.
 
 
-Note: 
+Note:
 Uploaded Files: 
-1.Flow chart 
-2.ER Diagram
-3.Rest Api Files.
+1. Flow chart 
+2. Rest Api Files.
+3. Final Presentation
+4. DataBase in .sql format 
+5. ER Diagram Screenshot
+6. Final Angular Source Folder Zip
+7. Final Spring Boot Implementation Folder Zip.
